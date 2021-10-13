@@ -3,7 +3,7 @@
 ## Running
 
 ### Passo 1
-1) Via terminar entrar na pasta terminalkafka
+1) Via terminal entrar na pasta terminalkafka
 2) Rodar os comandos:
 ```
 docker-compose up -d
